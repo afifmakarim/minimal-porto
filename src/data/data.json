@@ -1,0 +1,89 @@
+{
+    "name": "Afif",
+    "skills": [
+      {
+        "name": "HTML & CSS",
+        "level": "Advance",
+        "icon":"fa-brands fa-html5"
+      },
+      {
+        "name": "PHP",
+        "level": "Intermediate",
+        "icon":"fa-brands fa-php"
+      },
+      {
+        "name": "nodeJS",
+        "level": "Intermediate",
+        "icon":"fa-brands fa-node"
+      },
+      {
+        "name": "ReactJS/Native",
+        "level": "Intermediate",
+        "icon":"fa-brands fa-react"
+      },
+      {
+        "name": "Figma",
+        "level": "Beginner",
+        "icon":"fa-brands fa-figma"
+      }
+
+    ],
+    "projects": [
+      {
+        "name": "Budayaku",
+        "platform": "Web",
+        "framework": "CodeIgniter",
+        "imageUrl": "../images/projects/budayaku.jpg",
+        "url":"https://github.com/afifmakarim/web-budayaku-code-igniter"
+      },
+      {
+        "name": "Suikoden Guide",
+        "platform": "Android Apps",
+        "framework": "Ionic",
+        "imageUrl": "../images/projects/suikoden-guide.jpg",
+        "url":"https://apkpure.com/suikoden-guide/io.rojofactory.suikoden"
+      },
+      {
+        "name": "Tamako BOT",
+        "platform": "LINE Messenger BOT",
+        "framework": "CodeIgniter",
+        "imageUrl": "../images/projects/tamako-bot.jpg",
+        "url":"https://line.me/R/ti/p/%40xxs7002u"
+      },
+      {
+        "name": "StayCation",
+        "platform": "Web",
+        "framework": "ReactJS/NodeJS",
+        "imageUrl": "../images/projects/staycation.jpg",
+        "url":"https://github.com/afifmakarim/bwamern"
+      },
+      {
+        "name": "Restaurant App",
+        "platform": "PWA",
+        "framework": "Native",
+        "imageUrl": "../images/projects/resto-app.jpg",
+        "url":"https://github.com/afifmakarim/restaurant-pwa"
+      },
+      {
+        "name": "TinroPay - Codapay Look a Like Website",
+        "platform": "Web",
+        "framework": "ReactJS/NodeJS",
+        "imageUrl": "../images/projects/resto-app.jpg",
+        "url":"https://github.com/afifmakarim/tinropay-reactjs"
+      }
+    ],
+    "experience": [
+      {
+        "name": "PT. Astra Graphia Information Technology",
+        "startDate": "Februari 2019",
+        "endDate": "Februari 2020",
+        "role": "PHP Programmer"
+      },
+      {
+        "name": "PT. Fintek Karya Nusantara (LinkAja)",
+        "startDate": "Februari 2020",
+        "endDate": "Present",
+        "role": "BAU Integration Associate"
+      }
+    ]
+  }
